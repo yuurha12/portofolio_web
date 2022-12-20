@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
 export default function Contact() {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
+  const [name, setName] = React.useState("");
+  const [email, setEmail] = React.useState("");
+  const [message, setMessage] = React.useState("");
 
   function encode(data) {
     return Object.keys(data)
@@ -17,10 +17,10 @@ export default function Contact() {
     e.preventDefault();
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "application/x-ww-form-urlencoded" },
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
-      .then(() => alert("Message Delivered"))
+      .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
   }
 
