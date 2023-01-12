@@ -6,4 +6,7 @@ export const skills = [
   "Bootstrap",
   "Golang",
   "Tailwind",
+  "NodeJS",
+  "ExpressJS",
+  "NoSQL",
 ];
