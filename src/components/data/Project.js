@@ -9,7 +9,7 @@ export const projects = [
         link:"https://online-cinema12.netlify.app/",
     },
     {
-        title:"Listinder",
+        title:"Waysbucks",
         subtitle:"Reactjs and Golang",
         description:"Order your favorite coffe",
         image:"https://res.cloudinary.com/dfebjhjpu/image/upload/v1680588301/2023-04-04_13-02_al345f.png",
