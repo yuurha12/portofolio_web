@@ -6,13 +6,13 @@ export const projects = [
         subtitle:"Reactjs and Golang",
         description:"Streaming apps for watching movie from anywhere",
         image:"https://res.cloudinary.com/dfebjhjpu/image/upload/v1671466176/waysbucks/hero_jnkter.png",
-        link:"https://legendary-yeot-170403.netlify.app/",
+        link:"https://online-cinema12.netlify.app/",
     },
     {
         title:"Listinder",
-        subtitle:"Reactjs and Express",
-        description:"Find what your match",
-        image:"https://res.cloudinary.com/dfebjhjpu/image/upload/v1673516263/portofolio/Screenshot_from_2023-01-12_16-36-38_ieb8te.png",
-        link:"https://listinder-mongdb.vercel.app/",
+        subtitle:"Reactjs and Golang",
+        description:"Order your favorite coffe",
+        image:"https://res.cloudinary.com/dfebjhjpu/image/upload/v1680588301/2023-04-04_13-02_al345f.png",
+        link:"https://waysbucks12.netlify.app/",
     },
 ]
