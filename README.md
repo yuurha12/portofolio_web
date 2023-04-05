@@ -1,6 +1,6 @@
 # NOTE
 
-Yang ingin clone atau sekedar referensi silahkan, jangan lupa untuk terus belajar dan berkembang
+Jangan lupa untuk terus belajar dan berkembang
 
 # Info
 
